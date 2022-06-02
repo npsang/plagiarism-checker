@@ -1,2 +1,2 @@
 # plagiarism-checker
-A Web application for Plagiarism Checker 
+A Web Application for Plagiarism Checker 
